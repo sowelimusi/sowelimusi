@@ -1,0 +1,30 @@
+body {
+    font-size: 13.5pt;
+    background-color: #1f1f1f;
+    color:#fefefa;
+}
+
+a {
+    color: inherit;
+    text-decoration: underline;
+}
+
+#center {
+    margin: auto;
+    width: 50%;
+    text-align: center;
+}
+
+.mediaape {
+    font-size: 36pt;
+    color: #e676ef;
+}
+
+.quote {
+    font-size: 14pt;
+    font-style: italic;
+}
+
+#ref {
+    font-size: 10pt;
+}
