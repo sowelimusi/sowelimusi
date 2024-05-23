@@ -25,6 +25,10 @@ a {
     font-style: italic;
 }
 
+#gamelist {
+    color: #e686ef;
+}
+
 #ref {
     font-size: 10pt;
 }
